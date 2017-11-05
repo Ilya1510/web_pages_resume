@@ -1,15 +1,19 @@
 .about {
-  background-color: yellow;
+  font-style: italic;
+  font-size: 22px;
 }
 
 .experience {
-  font-style: italic;
-  font-size: 12px;
+  background-color: yellow;
 }
 
 .contacts {
   color: red;
+  text-align: center;
+}
+
+.photos {
   display: flex;
   flex-direction: row;
-  justify-content: center;
+  margin: auto;
 }
