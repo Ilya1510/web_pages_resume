@@ -1,0 +1,15 @@
+.about {
+  background-color: yellow;
+}
+
+.experience {
+  font-style: italic;
+  font-size: 12px;
+}
+
+.contacts {
+  color: red;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
